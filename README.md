@@ -1,2 +1,3 @@
 # odin_test
-odin Testing
+My first Github repo!
+Hello Odin!
